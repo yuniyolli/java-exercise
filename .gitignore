@@ -53,3 +53,7 @@ bin/
 /gradlew
 /gradlew.bat
 /settings.gradle
+/src/main/java/com/example/javaexercise/BufferedReaderEx.java
+/src/main/java/com/example/javaexercise/BufferedReaderEx2.java
+/src/main/java/com/example/javaexercise/BufferedReaderEx2Test.java
+/src/main/java/com/example/javaexercise/BufferedReaderExTest.java
