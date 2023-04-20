@@ -10,7 +10,7 @@ out/
 ### Eclipse ###
 .apt_generated
 .classpath
-.factorypath
+.factorypath가
 .project
 .settings
 .springBeans
@@ -50,3 +50,5 @@ bin/
 /src/main/java/com/example/javaexercise/BufferedReaderExTest.java
 /src/main/java/com/example/javaexercise/ScannerEx.java
 /src/main/java/com/example/javaexercise/ScannerExTest.java
+/src/main/java/com/example/javaexercise/ScannerText.java
+/src/main/java/com/example/javaexercise/ScannerTextTest.java
