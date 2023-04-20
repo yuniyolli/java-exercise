@@ -1,16 +1,7 @@
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### IntelliJ IDEA ###
-.idea/modules.xml
-.idea/jarRepositories.xml
-.idea/compiler.xml
-.idea/libraries/
-*.iws
-*.iml
+!**/s
 *.ipr
 out/
 !**/src/main/**/out/
@@ -57,3 +48,5 @@ bin/
 /src/main/java/com/example/javaexercise/BufferedReaderEx2.java
 /src/main/java/com/example/javaexercise/BufferedReaderEx2Test.java
 /src/main/java/com/example/javaexercise/BufferedReaderExTest.java
+/src/main/java/com/example/javaexercise/ScannerEx.java
+/src/main/java/com/example/javaexercise/ScannerExTest.java
