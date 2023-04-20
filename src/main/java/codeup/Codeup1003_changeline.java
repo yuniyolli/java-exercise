@@ -1,6 +1,6 @@
 package codeup;
 
-public class codeup1003_changeline {
+public class Codeup1003_changeline {
 
     /*
      /n
