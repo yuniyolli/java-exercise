@@ -8,7 +8,7 @@ public class JavaInputTest {
         JavaInput javaInput;
 
         //javaInput 변수에 JavaInput클래스를 인스턴스화하면서 초기화
-        javaInput = new JavaInput() ;
+        javaInput = new JavaInput();
 
         //.readAChar() 메소드 호출
         javaInput.readAChar();

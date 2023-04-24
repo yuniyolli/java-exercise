@@ -1,6 +1,7 @@
 package week1day5_0421;
 
 public class SpaceInvader {
+    /*
     private void moveLeft() {
         int location = 0;
         location = location -1;
@@ -17,4 +18,6 @@ public class SpaceInvader {
         si.moveLeft();
         si.moveRight();
     }
+
+     */
 }
