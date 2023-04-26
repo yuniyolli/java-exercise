@@ -1,8 +1,6 @@
-package com.example.javaexercise;
+package com.example.java.xercise;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 public class BufferedReaderExTest {
     public static void main(String[] args) throws IOException {
