@@ -1,6 +1,4 @@
-package com.example.javaexercise;
-
-import java.util.Scanner;
+package com.example.java.xercise;
 
 public class  ScannerTextAdviceTest {
     public static void main(String[] args) {
