@@ -1,4 +1,4 @@
-package com.example.java.xercise;
+package com.example.java.exercise;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

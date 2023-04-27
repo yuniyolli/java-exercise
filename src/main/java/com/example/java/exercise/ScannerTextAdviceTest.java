@@ -1,4 +1,4 @@
-package com.example.java.xercise;
+package com.example.java.exercise;
 
 public class  ScannerTextAdviceTest {
     public static void main(String[] args) {
