@@ -3,6 +3,6 @@ module com.example.javaexercise {
     requires javafx.fxml;
 
 
-    opens com.example.javaexercise to javafx.fxml;
-    exports com.example.javaexercise;
+    opens com.example.java.exercise to javafx.fxml;
+    exports com.example.java.exercise;
 }

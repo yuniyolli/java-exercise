@@ -18,6 +18,14 @@ public class SwitchCaseClinicHours {
             case "수", "일" :
                 time = "휴진"; break;
 
+                /* 가독성 늘리기
+                 switch(day) {
+            case "월", "화", "목", "금" : time = "09:30-18:30 "; break;
+            case "토" :  time = "09:30-13:00; " ; break;
+            case "수", "일" : time = "휴진"; break;
+            -> 한 줄에 적으면 가독성이 늘어남
+
+                 */
 
         }
         System.out.printf("%s요일 진료시간은 %s입니다.", day, time);
