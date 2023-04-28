@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class SwitchCityNumber {
     public static void main(String[] args) {
-        System.out.println("어느 지역의 지역번호를 알려드릴까요?");
+        System.out.println("김해, 창원, 함안, 구미, 포항 중 지역번호를 알고싶은 도시명을 입력하세요.");
 
         Scanner sc = new Scanner(System.in);
         String cityName = sc.next();
