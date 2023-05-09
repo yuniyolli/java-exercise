@@ -1,6 +1,7 @@
 package week4day2;
 
 public class ReversePyramid {
+    //원래 출력값은 메인안에 있었음
     private String spaceChar = "0";
 
     public ReversePyramid(String spaceChar) {

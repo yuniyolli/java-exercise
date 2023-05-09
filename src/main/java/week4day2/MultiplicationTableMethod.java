@@ -37,7 +37,8 @@ public class MultiplicationTableMethod {
 
     /* 파라메터를 사용한 곱셈식 뽑기
     public static void printDan (String multipleSymbol, int dan) {
-        for (int i = 1; i <= 9 ; i++) {
+        for (int i = 1; i <=
+        9 ; i++) {
             System.out.printf("%d %s %d = %d\n", dan, multipleSymbol, i, dan * i);
         }
         System.out.println("-----");
