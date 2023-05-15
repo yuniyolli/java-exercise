@@ -2,12 +2,24 @@ package week4day4;
 
 public class Hospital {
     private String name;
-    private String phoneNumber;
+    private String websiteAddr;
     private Address address;
 
-    public Hospital(String name, String phoneNumber, Address address) {
+    public Hospital(String name, String websiteAddr, Address address) {
         this.name = name;
-        this.phoneNumber = phoneNumber;
+        this.websiteAddr = websiteAddr ;
         this.address = address;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getWebsiteAddr() {
+        return websiteAddr;
+    }
+
+    public Address getAddress() {
+        return address;
     }
 }
